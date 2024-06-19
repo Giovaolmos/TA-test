@@ -3,7 +3,7 @@ import "dotenv/config"
 import axios from "axios"
 
 
-const PORT = process.env.PORT || 5147
+const PORT = process.env.PORT || 3000
 const URL_API = process.env.URL_API || "https://ajoaquinlizarraga.github.io/apipublic/mydata/people/people.json"
 
 
